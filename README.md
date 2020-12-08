@@ -1,6 +1,6 @@
 # Example-play-sound-animal-use-java-polymorphisme
+![image](https://user-images.githubusercontent.com/47373251/101518513-4caefc00-3982-11eb-9588-17ddb35b423f.png)
 
-https://github.com/AyoubMoustahfid/brief-gestion-pharmacy-use-java-console-polymorphisme/issues/new
 
 Contexte du projet
 A la base de vos choix par rapport votre animal préféré, essayer d’appliquer le principe de polymorphisme lancent la voix de votre animal.
